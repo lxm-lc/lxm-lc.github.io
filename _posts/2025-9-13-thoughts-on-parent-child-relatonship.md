@@ -1,6 +1,6 @@
 ---
 title: 一些关于亲子关系的记录
-tags: 日记 社科 家庭 隐喻
+tags: 泛文艺 亲子关系 小说
 # article_header:
 #   type: cover
 #   image:

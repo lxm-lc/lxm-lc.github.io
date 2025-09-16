@@ -1,6 +1,7 @@
 ---
 layout: article
-title: [持续更新中~]lc的科研与学习日志
+title: lc的科研与学习日志...持续更新中...
+tags: 学习 科研 日记
 aside:
   toc: true
 sidebar:
