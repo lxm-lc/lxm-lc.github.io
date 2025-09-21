@@ -1,6 +1,6 @@
 ---
 title: 如何在一天时间内搭建个人主页
-tags: TeXt web try
+tags: TeXt web
 # article_header:
 #   type: cover
 #   image:

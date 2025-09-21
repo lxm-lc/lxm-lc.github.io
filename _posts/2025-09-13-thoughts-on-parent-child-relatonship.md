@@ -1,6 +1,6 @@
 ---
 title: 人类观察日记 ·1·
-tags: 泛文艺 亲子关系 小说
+tags: 泛文艺 亲子关系 小说 碎碎念
 # article_header:
 #   type: cover
 #   image:
