@@ -54,6 +54,7 @@ sidebar:
 - 日记：保持学习、思考与记录
 - 其他：保持正常作息、健康饮食、偶尔运动、维持良好精神状态
 
+
 ## 第一周（2025.9.15-2025.9.21）
 
 ### Learnings & Reflections
@@ -75,3 +76,23 @@ sidebar:
   - 如果时间空闲，可以考虑开始学习CS231n
   - 空闲时间继续看Missing Semester
 - 其他：继续保持正常作息、健康饮食、偶尔运动、维持良好精神状态
+
+
+## 第二周（2025.9.22-2025.9.28）
+
+### Learnings & Reflections
+- **ML**
+  (To be filled...)
+- **Missing Semester**
+  (To be filled...)
+- **日记**
+  (To be filled...)
+- **回顾上周其他计划**：(To be filled...)
+- **科研**：(To be filled...)
+
+### Plans for Next Week
+- 课内：(To be filled...)
+- 文娱：(To be filled...)
+- 语言：听一些英语资讯，从而增强一下听力 ~~虽则波波的凸优化课也是很好的听力素材了~~
+- **课外学习**：(To be filled...)
+- 其他：(To be filled...)
