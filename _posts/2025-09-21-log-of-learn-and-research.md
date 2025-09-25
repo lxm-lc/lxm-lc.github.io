@@ -81,7 +81,7 @@ sidebar:
 ## 第二周（2025.9.22-2025.9.28）
 
 ### Learnings & Reflections
-- **ML**
+- **cs231n**
   (To be filled...)
 - **Missing Semester**
   (To be filled...)
