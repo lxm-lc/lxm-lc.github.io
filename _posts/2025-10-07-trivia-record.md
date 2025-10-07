@@ -2,12 +2,12 @@
 layout: article
 title: 琐记 [又名：梁侪碎碎念]
 tags: 学习 日记
-mathjax: true
-mathjax_autoNumber: true
 aside:
   toc: true
 sidebar:
   nav: layouts
+mathjax: true
+mathjax_autoNumber: true
 ---
 
 # 2025
