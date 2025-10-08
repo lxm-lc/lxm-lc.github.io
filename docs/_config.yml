@@ -297,3 +297,7 @@ plugins:
   - jemoji
 
 data_dir: /docs/_data
+
+## => Future: allow the website to display articles that are set in the future
+##############################
+future: true
