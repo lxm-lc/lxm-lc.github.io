@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ❤梁侪的科研与学习日志❤ [持续更新中~]
+title: ⭐梁侪的科研与学习日志⭐
 tags: 学习 科研 日记
 aside:
   toc: true

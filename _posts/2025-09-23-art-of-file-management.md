@@ -1,7 +1,7 @@
 ---
 layout: article
-title: 碎碎念 · 文件管理二三事 [施工中……]
-tags: 学习 碎碎念
+title: 文件管理二三事
+tags: 学习 工具
 aside:
   toc: true
 sidebar:
